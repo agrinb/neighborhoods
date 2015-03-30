@@ -15,12 +15,6 @@ Password: 12345678
 > dummy. But now, I can hear about
 > each one before I get on the train.
 
-# Technical contributors:
-+ [Dan Kleiman](https://github.com/dankleiman)
-+ [Christopher Finlayson](https://github.com/ooofinooo)
-+ [Alek Grinberg](https://github.com/agrinb)
-+ [Omid Bachari](https://github.com/omidbachari)
-
 # Entity Relationship Diagram
 
 ![ER](https://raw.githubusercontent.com/LaunchAcademy/neighborhoods/readme/ER.png)
